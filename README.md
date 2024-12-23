@@ -35,11 +35,8 @@ I am a **Python Web Developer** passionate about building efficient, scalable, a
 - **Portfolio:** 
 
 Let's collaborate to build something amazing!
-
-- 😄 Pronouns: ...
-- **He/Him, She/Her, They/Them:** He/Him
   
-- ⚡ Fun fact: ...
+##⚡ Fun fact: ...
 - **My favorite commit message:** 'Fixed it, finally!' - a victory dance in the world of coding.
 - **Fun Tech Tidbit:** Did you know that the first computer programmer was a woman named Ada Lovelace in the 19th century?
   
