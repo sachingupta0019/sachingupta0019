@@ -1,5 +1,5 @@
 # 👋 Hi there! Welcome to my GitHub Profile. 
-# I’m @sachingupta0019  
+# I’m Sachin Gupta
 
 I am a **Python Web Developer** passionate about building efficient, scalable, and robust web applications. My primary stack revolves around **Django** and **Django Rest Framework (DRF)** for creating dynamic web apps and powerful APIs.
 
