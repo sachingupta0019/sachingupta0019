@@ -6,10 +6,14 @@ I am a **Python Web Developer** passionate about building efficient, scalable, a
 ---
 
 ## 🌱 I’m currently learning...
-- **PyTorch:** Delving into machine learning and exploring Generative AI to combine deep learning with practical applications.
+- **Generative AI:** Exploring cutting-edge AI technologies to create innovative solutions using advanced machine learning techniques.
+- **PyTorch:** Delving into machine learning and exploring Generative AI to combine deep learning with practical applications.  
+- **LangChain:** Developing applications that leverage large language models (LLMs) for dynamic and context-aware outputs.  
+- **Hugging Face:** Gaining hands-on experience with pre-trained models and tools for fine-tuning and deploying state-of-the-art AI solutions.  
+- **Fine-Tuning Models:** Enhancing AI performance by tailoring models to specific tasks and datasets, unlocking their full potential.  
 - **AWS:** Enhancing my skills in cloud computing to build and deploy scalable, serverless applications.
 - **Docker and Kubernetes:** Embracing containerization and orchestration to ensure scalability and efficiency in web development.
-- **Magento2 Payment Integration:** Broadening my knowledge by integrating **Cybase payment gateways** into Magento-based e-commerce solutions using Python.
+
 
 ---
 
@@ -32,7 +36,10 @@ I am a **Python Web Developer** passionate about building efficient, scalable, a
 - **GitHub:** https://github.com/sachingupta0019
 - **LinkedIn:** https://www.linkedin.com/in/sachin-gupta-8169b0181
 - **Email:** gupta01010.sachin@gmail.com
-- **Portfolio:** 
+- **Portfolio:**
+  
+---
+
 
 Let's collaborate to build something amazing!
   
