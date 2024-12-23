@@ -1,12 +1,3 @@
-- 👋 Hi, I’m @sachingupta0019  
-- 👀 I’m interested in ...
-- **Open Source Development:** Passionate about contributing to and collaborating on open-source projects.
-- **Web Development:** Particularly interested in front-end technologies and user experience design.
-- **Artificial Intelligence:** Exploring machine learning and AI applications in software development.
-- **Problem Solving:** Enjoy tackling complex problems and finding elegant solutions.
-
-
-
 # 👋 Hi there! Welcome to my GitHub Profile. 
 # I’m @sachingupta0019  
 
