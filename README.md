@@ -1,5 +1,5 @@
 # 👋 Hi there! Welcome to my GitHub Profile. 
-# I’m Sachin Gupta
+
 ![badge](https://img.shields.io/badge/Skill-Python-blue)
 ![badge](https://img.shields.io/badge/Framework-Django-green)
 
@@ -33,14 +33,14 @@
 
 
 ## 🏅 Certifications
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?logo=amazon-aws&logoColor=FF9900)
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?logo=amazon-aws&logoColor=white)
 ![AWS AI Practitioner](https://img.shields.io/badge/AWS%20AI%20Practitioner-232F3E?logo=amazon-aws&logoColor=FF9900)
-![Git Foundation Certification](https://img.shields.io/badge/Git%20Foundation-181717?logo=git&logoColor=white)
+![Git Foundation Certification](https://img.shields.io/badge/Git%20Foundation-F05032?logo=git&logoColor=white)
 ![GitHub Actions Certification](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 ![GitHub Copilot Certification](https://img.shields.io/badge/GitHub%20Copilot-24292E?logo=github&logoColor=white)
 
 
-## 
+## About Me
 I am a **Python Web Developer** passionate about building efficient, scalable, and robust web applications. My primary stack revolves around **Django** and **Django Rest Framework (DRF)** for creating dynamic web apps and powerful APIs.
 
 ---
