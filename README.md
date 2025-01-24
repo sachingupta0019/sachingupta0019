@@ -12,7 +12,7 @@
 
 
 ## 🛠️ Skills
-![badge](https://img.shields.io/badge/Skill-Python-blue?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Skill-Python-blue?logo=python&logoColor=white)
 
 
 ## Web Frameworks
@@ -24,7 +24,7 @@
 
 ## GenAI Tool
 ![LangChain](https://img.shields.io/badge/LangChain-4682B4?logo=python&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging-Face-4682B4?logo=python&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-4682B4?logo=python&logoColor=white)
 
 
 ## Version Control
