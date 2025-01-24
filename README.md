@@ -45,7 +45,7 @@
 
 
 ## About Me
-I am a **Python Web Developer** passionate about building efficient, scalable, and robust web applications. My primary stack revolves around **Django** and **Django Rest Framework (DRF)**  **FastAPI** for creating dynamic web apps and powerful APIs.
+I am a **Python Web Developer** passionate about building efficient, scalable, and robust web applications. My primary stack revolves around **Django**, **Django Rest Framework (DRF)** and  **FastAPI** for creating dynamic web apps and powerful APIs.
 
 ---
 
