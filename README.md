@@ -1,37 +1,38 @@
 # 👋 Hi there! Welcome to my GitHub Profile. 
 
-![badge](https://img.shields.io/badge/Skill-Python-blue)
-![badge](https://img.shields.io/badge/Framework-Django-green)
+
+  ![badge](https://img.shields.io/badge/Skill-Python-blue)
+  ![badge](https://img.shields.io/badge/Framework-Django-green)
 
 
 ## 🔥 GitHub Stats
-![Sachin Gupta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachingupta0019&show_icons=true&theme=radical)
+  ![Sachin Gupta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachingupta0019&show_icons=true&theme=radical)
 
 
 ## 🧰 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachingupta0019&layout=compact&theme=radical)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachingupta0019&layout=compact&theme=radical)
 
 
 ## 🛠️ Skills
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 
 ## Web Frameworks
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![Django Rest Framework](https://img.shields.io/badge/DRF-092E20?logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+  ![Django Rest Framework](https://img.shields.io/badge/DRF-092E20?logo=django&logoColor=white)
+  ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 
 
 ## GenAI Tool
-![Generative AI](https://img.shields.io/badge/Generative%20AI-9146FF?logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-2E86AB?logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD700?logo=huggingface&logoColor=black)
+  ![Generative AI](https://img.shields.io/badge/Generative%20AI-9146FF?logo=openai&logoColor=white)
+  ![LangChain](https://img.shields.io/badge/LangChain-2E86AB?logo=langchain&logoColor=white)
+  ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD700?logo=huggingface&logoColor=black)
 
 
 ## Version Control
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 
 ## 🏅 Certifications
@@ -43,7 +44,7 @@
 
 
 ## About Me
-I am a **Python Web Developer** passionate about building efficient, scalable, and robust web applications. My primary stack revolves around **Django** and **Django Rest Framework (DRF)** for creating dynamic web apps and powerful APIs.
+I am a **Python Web Developer** passionate about building efficient, scalable, and robust web applications. My primary stack revolves around **Django** and **Django Rest Framework (DRF)**  **FastAPI** for creating dynamic web apps and powerful APIs.
 
 ---
 
@@ -75,18 +76,10 @@ I am a **Python Web Developer** passionate about building efficient, scalable, a
 ---
 
 ## 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-gupta-8169b0181)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/sachingupta0019)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gupta01010.sachin@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_LINK)
-
-
-
-
-- **GitHub:** https://github.com/sachingupta0019
-- **LinkedIn:** https://www.linkedin.com/in/sachin-gupta-8169b0181
-- **Email:** gupta01010.sachin@gmail.com
-- **Portfolio:**
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-gupta-8169b0181)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/sachingupta0019)
+  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gupta01010.sachin@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_LINK)
   
 ---
 
