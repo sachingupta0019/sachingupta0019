@@ -23,6 +23,10 @@
 
 
 ## GenAI Tool
+![Generative AI](https://img.shields.io/badge/Generative%20AI-9146FF?logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-2E86AB?logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD700?logo=huggingface&logoColor=black)
+
 ![LangChain](https://img.shields.io/badge/LangChain-4682B4?logo=python&logoColor=white) 
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-4682B4?logo=python&logoColor=white)
 
