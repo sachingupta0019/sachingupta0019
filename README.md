@@ -4,9 +4,10 @@
   ![badge](https://img.shields.io/badge/Skill-Python-blue)
   ![badge](https://img.shields.io/badge/Framework-Django-green)
 
-
+<!--
 ## 🔥 GitHub Stats
   ![Sachin Gupta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachingupta0019&show_icons=true&theme=radical)
+  -->
 
 
 ## 🧰 Top Languages
