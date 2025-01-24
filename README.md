@@ -1,5 +1,8 @@
 # 👋 Hi there! Welcome to my GitHub Profile. 
 # I’m Sachin Gupta
+![badge](https://img.shields.io/badge/Skill-Python-blue)
+![badge](https://img.shields.io/badge/Framework-Django-green)
+
 
 ## 🔥 GitHub Stats
 ![Sachin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shilpigupta&show_icons=true&theme=dark)
