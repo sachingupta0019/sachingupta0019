@@ -16,14 +16,14 @@
 
 
 ## Web Frameworks
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![Django Rest Framework](https://img.shields.io/badge/DRF-092E20?logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) |
+![Django Rest Framework](https://img.shields.io/badge/DRF-092E20?logo=django&logoColor=white) |
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) |
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) |
 
 
 ## GenAI Tool
-![LangChain](https://img.shields.io/badge/LangChain-4682B4?logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-4682B4?logo=python&logoColor=white) |
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-4682B4?logo=python&logoColor=white)
 
 
@@ -39,7 +39,7 @@
 ![GitHub Copilot Certification](https://img.shields.io/badge/GitHub%20Copilot-24292E?logo=github&logoColor=white)
 
 
-
+## 
 I am a **Python Web Developer** passionate about building efficient, scalable, and robust web applications. My primary stack revolves around **Django** and **Django Rest Framework (DRF)** for creating dynamic web apps and powerful APIs.
 
 ---
