@@ -27,9 +27,6 @@
 ![LangChain](https://img.shields.io/badge/LangChain-2E86AB?logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD700?logo=huggingface&logoColor=black)
 
-![LangChain](https://img.shields.io/badge/LangChain-4682B4?logo=python&logoColor=white) 
-![Hugging Face](https://img.shields.io/badge/HuggingFace-4682B4?logo=python&logoColor=white)
-
 
 ## Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
