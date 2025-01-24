@@ -16,9 +16,9 @@
 
 
 ## Web Frameworks
-![Django](https://img.shields.io/badge/Framework-Django-092E20?logo=django&logoColor=white)
-![Django Rest Framework](https://img.shields.io/badge/Framework-Django-green?logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Framework-FastAPI-009688?logo=fastapi)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![Django Rest Framework](https://img.shields.io/badge/DRF-092E20?logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 
 
