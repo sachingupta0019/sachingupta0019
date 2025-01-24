@@ -5,7 +5,7 @@
 ![Sachin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shilpigupta&show_icons=true&theme=dark)
 
 ## 🧰 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shilpigupta&layout=compact&theme=dark)
+![python, JavaScript](https://github-readme-stats.vercel.app/api/top-langs/?username=shilpigupta&layout=compact&theme=dark)
 
 
 I am a **Python Web Developer** passionate about building efficient, scalable, and robust web applications. My primary stack revolves around **Django** and **Django Rest Framework (DRF)** for creating dynamic web apps and powerful APIs.
