@@ -44,6 +44,15 @@
 ![GitHub Copilot Certification](https://img.shields.io/badge/GitHub%20Copilot-24292E?logo=github&logoColor=white)
 
 
+## **🚀 Projects**
+
+| Project Name           | Description                                | Tech Stack         | Link           |
+| ---------------------- | ------------------------------------------ | ------------------ | -------------- |
+| [E-Commerce Site](#)   | Seamless payment integration using Cybase. | Python, Django     | [View Repo](https://github.com/sachingupta0019/django)|
+| [API for AI Models](#) | API services for Hugging Face models.      | FastAPI, AWS       | [View Repo](https://github.com/sachingupta0019/FastAPI) |
+| [LangChain NLP](#)     | Leveraging LangChain for NLP tasks.        | LangChain, PyTorch | [View Repo](https://github.com/sachingupta0019/AI-ML) |
+
+
 ## About Me
 I am a **Python Web Developer** passionate about building efficient, scalable, and robust web applications. My primary stack revolves around **Django**, **Django Rest Framework (DRF)** and  **FastAPI** for creating dynamic web apps and powerful APIs.
 
