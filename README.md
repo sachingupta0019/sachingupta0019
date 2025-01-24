@@ -10,31 +10,26 @@
 ## 🧰 Top Languages
 ![python](https://github-readme-stats.vercel.app/api/top-langs/?username=shilpigupta&layout=compact&theme=dark) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sachingupta0019&theme=swift)
-
 
 ## 🛠️ Skills
 ![badge](https://img.shields.io/badge/Skill-Python-blue?logo=python&logoColor=white)
 
 
 ## Web Frameworks
-
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![Django Rest Framework](https://img.shields.io/badge/DRF-092E20?logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Framework-Django-092E20?logo=django&logoColor=white)
+![Django Rest Framework](https://img.shields.io/badge/Framework-Django-green?logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Framework-FastAPI-009688?logo=fastapi)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 
 
 ## GenAI Tool
-
 ![LangChain](https://img.shields.io/badge/LangChain-4682B4?logo=python&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging-Face-4682B4?logo=python&logoColor=white)
 
 
+## Version Control
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-## 💻 Frameworks and Tools
-![badge](https://img.shields.io/badge/Framework-Django-green?logo=django&logoColor=white)
-![badge](https://img.shields.io/badge/Framework-FastAPI-009688?logo=fastapi)
-![badge](https://img.shields.io/badge/Tool-Docker-2496ed?logo=docker&logoColor=white)
 
 ## 🏅 Certifications
 ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?logo=amazon-aws&logoColor=FF9900)
