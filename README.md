@@ -12,6 +12,21 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sachingupta0019&theme=swift)
 
+## SKills
+
+## 🛠️ Skills
+![badge](https://img.shields.io/badge/Skill-Python-blue?logo=python&logoColor=white)
+![badge](https://img.shields.io/badge/Skill-RESTful%20APIs-orange)
+![badge](https://img.shields.io/badge/Skill-Data%20Analysis-9cf)
+
+## 💻 Frameworks and Tools
+![badge](https://img.shields.io/badge/Framework-Django-green?logo=django&logoColor=white)
+![badge](https://img.shields.io/badge/Framework-FastAPI-009688?logo=fastapi)
+![badge](https://img.shields.io/badge/Tool-Docker-2496ed?logo=docker&logoColor=white)
+
+## 🏅 Certifications
+![badge](https://img.shields.io/badge/Certified-AWS%20AI%20Practitioner-232f3e?logo=amazon-aws)
+
 
 I am a **Python Web Developer** passionate about building efficient, scalable, and robust web applications. My primary stack revolves around **Django** and **Django Rest Framework (DRF)** for creating dynamic web apps and powerful APIs.
 
