@@ -16,14 +16,14 @@
 
 
 ## Web Frameworks
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) |
-![Django Rest Framework](https://img.shields.io/badge/DRF-092E20?logo=django&logoColor=white) |
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) |
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) |
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)  
+![Django Rest Framework](https://img.shields.io/badge/DRF-092E20?logo=django&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 
 
 ## GenAI Tool
-![LangChain](https://img.shields.io/badge/LangChain-4682B4?logo=python&logoColor=white) |
+![LangChain](https://img.shields.io/badge/LangChain-4682B4?logo=python&logoColor=white) 
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-4682B4?logo=python&logoColor=white)
 
 
@@ -32,10 +32,10 @@
 
 
 ## 🏅 Certifications
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?logo=amazon-aws&logoColor=FF9900)
-![AWS AI Practitioner](https://img.shields.io/badge/AWS%20AI%20Practitioner-232F3E?logo=amazon-aws&logoColor=FF9900)
-![Git Foundation Certification](https://img.shields.io/badge/Git%20Foundation-181717?logo=git&logoColor=white)
-![GitHub Actions Certification](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?logo=amazon-aws&logoColor=FF9900)  
+![AWS AI Practitioner](https://img.shields.io/badge/AWS%20AI%20Practitioner-232F3E?logo=amazon-aws&logoColor=FF9900)  
+![Git Foundation Certification](https://img.shields.io/badge/Git%20Foundation-181717?logo=git&logoColor=white)  
+![GitHub Actions Certification](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)  
 ![GitHub Copilot Certification](https://img.shields.io/badge/GitHub%20Copilot-24292E?logo=github&logoColor=white)
 
 
