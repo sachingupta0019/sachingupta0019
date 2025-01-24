@@ -75,6 +75,14 @@ I am a **Python Web Developer** passionate about building efficient, scalable, a
 ---
 
 ## 🔗 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-gupta-8169b0181)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/sachingupta0019)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gupta01010.sachin@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_LINK)
+
+
+
+
 - **GitHub:** https://github.com/sachingupta0019
 - **LinkedIn:** https://www.linkedin.com/in/sachin-gupta-8169b0181
 - **Email:** gupta01010.sachin@gmail.com
