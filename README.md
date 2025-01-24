@@ -5,14 +5,16 @@
 
 
 ## 🔥 GitHub Stats
-![Sachin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shilpigupta&show_icons=true&theme=dark)
+![Sachin Gupta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachingupta0019&show_icons=true&theme=radical)
+
 
 ## 🧰 Top Languages
-![python](https://github-readme-stats.vercel.app/api/top-langs/?username=shilpigupta&layout=compact&theme=dark) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachingupta0019&layout=compact&theme=radical)
 
 
 ## 🛠️ Skills
-![Python](https://img.shields.io/badge/Skill-Python-blue?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 
 ## Web Frameworks
