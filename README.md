@@ -46,11 +46,11 @@
 
 ## **🚀 Projects**
 
-| Project Name           | Description                                | Tech Stack            | Link           |
-| ---------------------- | ------------------------------------------ | ------------------    | -------------- |
-| [E-Commerce Site](#)   | Seamless payment integration using Cybase. | Python, Django, ORM   | [View Repo](https://github.com/sachingupta0019/django)|
-| [API for Blog Project](#) | API services for Hugging Face models.   | FastAPI, SqlAlchemy   | [View Repo](https://github.com/sachingupta0019/FastAPI) |
-| [LangChain NLP](#)     | Leveraging LangChain for NLP tasks.        | LangChain, PyTorch    | [View Repo](https://github.com/sachingupta0019/AI-ML) |
+| Project Name             | Description                                | Tech Stack                    | Link           |
+| ---------------------- --| ------------------------------------------ | -----------------------       | -------------- |
+| [E-Commerce Site](#)     | Seamless payment integration using Cybase. | Python, Django, ORM           | [View Repo](https://github.com/sachingupta0019/django)|
+| [API for Blog Project](#)| API services for Hugging Face models.   | Python, FastAPI, PostgreSQL, SqlAlchemy   | [View Repo](https://github.com/sachingupta0019/FastAPI) |
+| [LangChain NLP](#)       | Leveraging LangChain for NLP tasks.        | LangChain, PyTorch            | [View Repo](https://github.com/sachingupta0019/AI-ML) |
 
 
 ## About Me
