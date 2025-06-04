@@ -1,8 +1,7 @@
 ## 👋 Hi there! Welcome to my GitHub Profile. 
 
 
-  ![badge](https://img.shields.io/badge/Skill-Python-blue)
-  ![badge](https://img.shields.io/badge/Framework-Django-green)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
   ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -12,6 +11,8 @@
 
 <!--
 ## 🔥 GitHub Stats
+  ![badge](https://img.shields.io/badge/Skill-Python-blue)
+  ![badge](https://img.shields.io/badge/Framework-Django-green)
   ![Sachin Gupta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachingupta0019&show_icons=true&theme=radical)
   -->
 
